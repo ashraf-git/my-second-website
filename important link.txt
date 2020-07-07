@@ -1,0 +1,143 @@
+
+Learning Platforms:
+? https://freecodecamp.org
+? https://codecademy.com
+? https://javascript30.com
+? https://frontendmentor.io
+? https://testautomationu.applitools.com
+? https://coursera.org
+? https://khanacademy.org
+? https://sololearn.com
+Free Hosting:
+? https://netlify.com
+? https://firebase.google.com
+? https://aws.amazon.com
+? https://heroku.com
+? https://pages.github.com
+? https://vercel.com
+? https://surge.sh
+? https://render.com
+? https://docs.gitlab.com/ee/user/project/pages
+Coding Challenge Platforms:
+? https://codewars.com
+? https://topcoder.com
+? https://codingame.com
+? https://hackerrank.com
+? https://projecteuler.net
+? https://coderbyte.com
+? https://codechef.com
+? https://exercism.io
+? https://leetcode.com
+? https://spoj.com
+Freelancing platforms:
+:pushpin: https://toptal.com
+:pushpin: https://upwork.com
+:pushpin: https://freelancer.com
+:pushpin: https://peopleperhour.com
+:pushpin: https://simplyhired.com
+:pushpin: https://envato.com
+:pushpin: https://guru.com
+:pushpin: https://fiverr.com
+:pushpin: https://hireable.com
+:pushpin: https://6nomads.com
+List of websites to find remote jobs:
+:pushpin: https://flexjobs.com
+:pushpin: https://remote.co/remote-jobs
+:pushpin: https://justremote.co
+:pushpin: https://weworkremotely.com
+:pushpin: https://remoteok.io
+:pushpin: https://jobspresso.co
+:pushpin: https://europeremotely.com
+:pushpin: https://wfh.io
+Photos:
+:camera: https://unsplash.com
+:camera: https://pixabay.com
+:camera: https://pexels.com
+Illustrations:
+? https://undraw.co/illustrations
+? https://drawkit.io
+? https://icons8.com/ouch
+? https://iradesign.io
+? https://interfacer.xyz
+? https://blush.design
+Icons:
+? https://fontawesome.com
+? https://flaticon.com
+? https://icons8.com
+? https://material.io/resources/icons
+? https://iconmonstr.com
+Fonts:
+:writing_hand: https://fonts.google.com
+:writing_hand: https://fontspace.com
+:writing_hand: https://1001fonts.com
+:writing_hand: https://fontsquirrel.com
+Youtube Channels:
+:link: Traversy Media
+:link: FreeCodeCamp
+:link: The Net Ninja
+:link: Google Chrome Developers
+:link: The New Boston
+:link: Derek Banas
+:link: Academind
+Podcasts:
+:link: Syntax
+:link: Fullstack radio
+:link: The Changelog
+:link: The Laracasts Snippet
+:link: Front End Happy Hour
+:link: JavaScript Jabber Archives
+:link: Commit Your Code!
+:link: Shop Talk
+:link: Ladybug Podcast
+:link: CodePen Radio
+:link: JAMStack Radio
+:link: Modern Web
+Code Editors:
+:rocket: Visual Studio Code [VS Code]
+:rocket: Sublime Text
+:rocket: Atom
+:rocket: Brackets
+:rocket: Vim
+Color Palettes:
+:art: https://coolors.co
+:art: https://colorhunt.co
+:art: https://paletton.com
+:art: https://color-hex.com
+:art: https://mycolor.space
+UI Inspiration:
+? https://uimovement.com
+? https://uigarage.net
+? https://collectui.com
+? https://httpster.net
+Docs:
+:fire: https://developer.mozilla.org
+:fire: https://w3schools.com
+:fire: https://w3docs.com
+:fire: https://devdocs.io
+Animation Libraries:
+? CSShake
+? Animate.css
+? AnimeJS
+? GreenSock (GSAP)
+? Magic Animations
+? Hover css
+? AniJS
+? Wicked CSS
+? Tuesday
+? Mo.js
+? Bounce.js
+Charts / Data Visualization:
+:bar_chart: Chart.js
+:bar_chart: D3.js
+:bar_chart: three.js
+Chrome Extensions:
+:bookmark: Web Developer
+:bookmark: CSSViewer
+:bookmark: Wappalyzer
+:bookmark: JSONView
+:bookmark: Lorem Ipsum Generator
+Website Optimization Tools:
+:zap: Google PageSpeed Insights
+:zap: GTmetrix
+:zap: WebPageTest
+:zap: Yslow
